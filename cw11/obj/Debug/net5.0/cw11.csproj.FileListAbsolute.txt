@@ -1,0 +1,112 @@
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.csproj.AssemblyReference.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.AssemblyInfoInputs.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.AssemblyInfo.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.csproj.CoreCompileInputs.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.RazorComponent.input.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\RazorDeclaration\Pages\StudentDetails.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\RazorDeclaration\Pages\Students.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.RazorComponent.output.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\RazorDeclaration\cw11.dll
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.TagHelpers.input.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.TagHelpers.output.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.RazorCoreGenerate.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\Razor\Pages\StudentDetails.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\Razor\Pages\Students.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.RazorAssemblyInfo.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.RazorAssemblyInfo.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\scopedcss\bundle\cw11.styles.css
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\scopedcss\projectbundle\cw11.bundle.scp.css
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\staticwebassets\cw11.StaticWebAssets.Manifest.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\staticwebassets\cw11.StaticWebAssets.xml
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.RazorTargetAssemblyInfo.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.RazorTargetAssemblyInfo.cs
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.dll
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\refint\cw11.dll
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.pdb
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\appsettings.json
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\cw11.StaticWebAssets.xml
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\cw11.exe
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\cw11.deps.json
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\cw11.runtimeconfig.json
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\cw11.runtimeconfig.dev.json
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\cw11.dll
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\cw11.pdb
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\cw11.Views.dll
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\bin\Debug\net5.0\cw11.Views.pdb
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.Views.pdb
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.genruntimeconfig.cache
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\ref\cw11.dll
+C:\Users\norbe\source\repos\Nowy folder\APBD\Task11\obj\Debug\net5.0\cw11.csproj.CopyComplete
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\appsettings.json
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\cw11.StaticWebAssets.xml
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\cw11.exe
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\cw11.deps.json
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\cw11.runtimeconfig.json
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\cw11.runtimeconfig.dev.json
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\cw11.dll
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\cw11.pdb
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\cw11.Views.dll
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\bin\Debug\net5.0\cw11.Views.pdb
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.csproj.AssemblyReference.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.AssemblyInfoInputs.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.AssemblyInfo.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.csproj.CoreCompileInputs.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.RazorComponent.input.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\RazorDeclaration\Pages\StudentDetails.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\RazorDeclaration\Pages\Students.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.RazorComponent.output.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\RazorDeclaration\cw11.dll
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.TagHelpers.input.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.TagHelpers.output.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.RazorCoreGenerate.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\Razor\Pages\StudentDetails.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\Razor\Pages\Students.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.RazorAssemblyInfo.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.RazorAssemblyInfo.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\scopedcss\bundle\cw11.styles.css
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\scopedcss\projectbundle\cw11.bundle.scp.css
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\staticwebassets\cw11.StaticWebAssets.Manifest.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\staticwebassets\cw11.StaticWebAssets.xml
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.RazorTargetAssemblyInfo.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.RazorTargetAssemblyInfo.cs
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.Views.pdb
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.dll
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\refint\cw11.dll
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.pdb
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.genruntimeconfig.cache
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\ref\cw11.dll
+C:\Users\norbe\source\repos\APBD\Zadania\cw11\obj\Debug\net5.0\cw11.csproj.CopyComplete
